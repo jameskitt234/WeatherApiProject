@@ -3,7 +3,7 @@ Zynstra Technical task Submission by James Kitt
 A simple command line program written in python to retrieve data from a provided
 weather API, process the data and write the answers to the provided questions
 into a text file as JSON formatted list in a location chosen by the user.
-Submission directory contains:
+Submission repository contains:
   - README.txt
   - requirements.txt
   - technicalTask.py

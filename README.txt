@@ -1,4 +1,4 @@
-Zynstra Technical task Submission by James Kitt
+Weather API Project by James Kitt
 
 A simple command line program written in python to retrieve data from a provided
 weather API, process the data and write the answers to the provided questions

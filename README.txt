@@ -15,7 +15,7 @@ To ensure that the application is able to run correctly please ensure that your
 device has the python libraries listed in the requirement.txt file.
 
 ---Installation---
-Please save the 'technicalTaskSubmission' directory to the desired location on your
+Please save the contents of the reposistory to the desired location on your
 device. It is important that 'test_technicalTask.py' is located in the same
 directory as 'technicalTask.py'.
 
